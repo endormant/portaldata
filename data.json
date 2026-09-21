@@ -61,6 +61,17 @@
    "c": 3,
    "u": 0
   },
+  "mubeyakhkwxn": {
+   "id": "mubeyakhkwxn",
+   "t": "Clean room",
+   "kind": "days",
+   "days": [
+    0
+   ],
+   "s": "2026-09-21",
+   "c": 1790005322753,
+   "u": 1790005322753
+  },
   "nosnack": {
    "id": "nosnack",
    "t": "No snacking",
