@@ -1,5 +1,5 @@
 {
- "v": 3,
+ "v": 4,
  "log": {
   "2026-09-18|breakfast": -1789927856280,
   "2026-09-18|cardio": -1789927857478,
@@ -23,6 +23,70 @@
   "2026-09-20|swim": -1789927867810,
   "2026-09-21|breakfast": 1789976240157
  },
+ "habits": {
+  "breakfast": {
+   "id": "breakfast",
+   "t": "Breakfast",
+   "kind": "daily",
+   "s": "",
+   "c": 5,
+   "u": 0
+  },
+  "cardio": {
+   "id": "cardio",
+   "t": "Cardio",
+   "kind": "weekly",
+   "target": 2,
+   "s": "",
+   "c": 7,
+   "u": 0
+  },
+  "gym": {
+   "id": "gym",
+   "t": "Gym",
+   "kind": "weekly",
+   "target": 3,
+   "s": "",
+   "c": 2,
+   "u": 0
+  },
+  "homework": {
+   "id": "homework",
+   "t": "Homework",
+   "kind": "daily",
+   "s": "",
+   "c": 3,
+   "u": 0
+  },
+  "nosnack": {
+   "id": "nosnack",
+   "t": "No snacking",
+   "kind": "daily",
+   "s": "",
+   "c": 6,
+   "u": 0
+  },
+  "study": {
+   "id": "study",
+   "t": "Study",
+   "kind": "daily",
+   "s": "",
+   "c": 4,
+   "u": 0
+  },
+  "swim": {
+   "id": "swim",
+   "t": "Swimming",
+   "kind": "days",
+   "days": [
+    6,
+    0
+   ],
+   "s": "",
+   "c": 1,
+   "u": 0
+  }
+ },
  "goals": {
   "mua4qsafkm0p": {
    "id": "mua4qsafkm0p",
@@ -44,5 +108,6 @@
    "u": 1789930759910,
    "del": 1
   }
- }
+ },
+ "sleep": {}
 }
