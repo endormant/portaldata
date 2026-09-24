@@ -1,5 +1,5 @@
 {
- "v": 4,
+ "v": 5,
  "log": {
   "2026-09-18|breakfast": -1789927856280,
   "2026-09-18|cardio": -1789927857478,
@@ -160,5 +160,191 @@
    "w": "07:00",
    "u": 1790151774280
   }
- }
+ },
+ "exercises": {
+  "ex-bench-press": {
+   "id": "ex-bench-press",
+   "t": "Bench Press",
+   "m": "Chest",
+   "c": 1,
+   "u": 0
+  },
+  "ex-bent-over-row": {
+   "id": "ex-bent-over-row",
+   "t": "Bent Over Row",
+   "m": "Back",
+   "c": 9,
+   "u": 0
+  },
+  "ex-bicep-curl": {
+   "id": "ex-bicep-curl",
+   "t": "Bicep Curl",
+   "m": "Arms",
+   "c": 19,
+   "u": 0
+  },
+  "ex-calf-raise": {
+   "id": "ex-calf-raise",
+   "t": "Calf Raise",
+   "m": "Legs",
+   "c": 14,
+   "u": 0
+  },
+  "ex-chest-press-machine": {
+   "id": "ex-chest-press-machine",
+   "t": "Chest Press Machine",
+   "m": "Chest",
+   "c": 3,
+   "u": 0
+  },
+  "ex-crunch": {
+   "id": "ex-crunch",
+   "t": "Crunch",
+   "m": "Core",
+   "c": 24,
+   "u": 0
+  },
+  "ex-deadlift": {
+   "id": "ex-deadlift",
+   "t": "Deadlift",
+   "m": "Back",
+   "c": 5,
+   "u": 0
+  },
+  "ex-dip": {
+   "id": "ex-dip",
+   "t": "Dip",
+   "m": "Arms",
+   "c": 22,
+   "u": 0
+  },
+  "ex-hammer-curl": {
+   "id": "ex-hammer-curl",
+   "t": "Hammer Curl",
+   "m": "Arms",
+   "c": 21,
+   "u": 0
+  },
+  "ex-incline-dumbbell-press": {
+   "id": "ex-incline-dumbbell-press",
+   "t": "Incline Dumbbell Press",
+   "m": "Chest",
+   "c": 2,
+   "u": 0
+  },
+  "ex-lat-pulldown": {
+   "id": "ex-lat-pulldown",
+   "t": "Lat Pulldown",
+   "m": "Back",
+   "c": 7,
+   "u": 0
+  },
+  "ex-lateral-raise": {
+   "id": "ex-lateral-raise",
+   "t": "Lateral Raise",
+   "m": "Shoulders",
+   "c": 17,
+   "u": 0
+  },
+  "ex-leg-curl": {
+   "id": "ex-leg-curl",
+   "t": "Leg Curl",
+   "m": "Legs",
+   "c": 13,
+   "u": 0
+  },
+  "ex-leg-extension": {
+   "id": "ex-leg-extension",
+   "t": "Leg Extension",
+   "m": "Legs",
+   "c": 12,
+   "u": 0
+  },
+  "ex-leg-press": {
+   "id": "ex-leg-press",
+   "t": "Leg Press",
+   "m": "Legs",
+   "c": 11,
+   "u": 0
+  },
+  "ex-lunge": {
+   "id": "ex-lunge",
+   "t": "Lunge",
+   "m": "Legs",
+   "c": 15,
+   "u": 0
+  },
+  "ex-overhead-press": {
+   "id": "ex-overhead-press",
+   "t": "Overhead Press",
+   "m": "Shoulders",
+   "c": 16,
+   "u": 0
+  },
+  "ex-plank": {
+   "id": "ex-plank",
+   "t": "Plank",
+   "m": "Core",
+   "c": 23,
+   "u": 0
+  },
+  "ex-pull-up": {
+   "id": "ex-pull-up",
+   "t": "Pull Up",
+   "m": "Back",
+   "c": 6,
+   "u": 0
+  },
+  "ex-push-up": {
+   "id": "ex-push-up",
+   "t": "Push Up",
+   "m": "Chest",
+   "c": 4,
+   "u": 0
+  },
+  "ex-rowing-machine": {
+   "id": "ex-rowing-machine",
+   "t": "Rowing Machine",
+   "m": "Cardio",
+   "c": 26,
+   "u": 0
+  },
+  "ex-seated-row-machine": {
+   "id": "ex-seated-row-machine",
+   "t": "Seated Row Machine",
+   "m": "Back",
+   "c": 8,
+   "u": 0
+  },
+  "ex-shoulder-press-machine": {
+   "id": "ex-shoulder-press-machine",
+   "t": "Shoulder Press Machine",
+   "m": "Shoulders",
+   "c": 18,
+   "u": 0
+  },
+  "ex-squat": {
+   "id": "ex-squat",
+   "t": "Squat",
+   "m": "Legs",
+   "c": 10,
+   "u": 0
+  },
+  "ex-treadmill": {
+   "id": "ex-treadmill",
+   "t": "Treadmill",
+   "m": "Cardio",
+   "c": 25,
+   "u": 0
+  },
+  "ex-tricep-pushdown": {
+   "id": "ex-tricep-pushdown",
+   "t": "Tricep Pushdown",
+   "m": "Arms",
+   "c": 20,
+   "u": 0
+  }
+ },
+ "routines": {},
+ "workouts": {}
 }
