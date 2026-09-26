@@ -373,5 +373,13 @@
  },
  "routines": {},
  "workouts": {},
- "supplements": {}
+ "supplements": {
+  "muij3txuo93q": {
+   "id": "muij3txuo93q",
+   "t": "Vitamin C",
+   "sched": "morning",
+   "c": 1790435562834,
+   "u": 1790435562834
+  }
+ }
 }
